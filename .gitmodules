@@ -9,3 +9,4 @@
 [submodule "omoponfhir-omopv5-r4-mapping"]
 	path = omoponfhir-omopv5-r4-mapping
 	url = https://github.com/Populus-Global-Solution/omoponfhir-omopv5-r4-mapping.git
+        branch = feature/ACS-7348-omop-on-fhir-to-accept-uuids
